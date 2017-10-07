@@ -23,8 +23,8 @@ A repo used to help profile myself as a developer and improve in selected areas.
 - programming languages
   - Delphi (desktop apps, back to the roots.)
   - Java (java 9, try to do less java in general)
-  - Python. (more async and aiohttp)
-  - JavaScript (ECMA6 and beyond)
+  - Python. (more async and aiohttp)
+  - JavaScript (ECMA6 and beyond, clients only)
   - solidity/viper (new, smart contracts etc)
 - development
   - gradle (ongoing)
