@@ -50,7 +50,7 @@ A repo used to help profile myself as a developer and improve in selected areas.
 All projects needs to provide a value of some sort, skills development, monetary gains, reputation etc.
 All projects must include a well written readme and a youtube demo.
 
-Wishlist
+## Wishlist
 - more non-java development
 - projects that can be released and actually used by someone else.
 - some pi-zero project
