@@ -30,18 +30,22 @@ A repo used to help profile myself as a developer and improve in selected areas.
   - gradle (ongoing)
   - git (ongoing, try some "advanced" features every now and then.
   - CI tools (TravisCI alternatives)
-  - JUnit 5 (ongoing, use more new features)
-  
-  
-Project pipeline
+  - JUnit 5 (ongoing, use more new features)
+- algorithms
+  - simplex noise
+  - perlin noise
+  - spatial hashing.
+ 
+## Project pipeline
 - chili-core: ongoing long term project, used in other projects as much as possible.
 - flashcards-webapp: finish in near future, chili-core project and ethereum integration.
 - timeless-gitmon: time reporting for developers, one day timeboxed activity.
 - crypto-hexchange: order brokering with web ui. intensive project, to be dated.
 - excelastic: development driven by community demand. low priority.
 - kbn-authentication-plugin: development driven by community demand. low priority.
-- chili-core prototype: html5 game based on chili-core, long term currently paused.
+- chili-core prototype: html5 game based on chili-core, long term currently in progress.
 - ethereum-ingest: event ingestion to a queryable data store, for analysis and real time infographics/dashboard etc.
+- ether-gate: ethereum payment processing, demo with flashcards-webapp.
 
 All projects needs to provide a value of some sort, skills development, monetary gains, reputation etc.
 All projects must include a well written readme and a youtube demo.
