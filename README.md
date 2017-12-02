@@ -8,9 +8,12 @@ A repo used to help profile myself as a developer and improve in selected areas.
   - hazelcast jet (new)
   - mewbase (new)
   - netty (new, lighter knowledge to better understand vertx)
+  - kryo (attempt to hook into the ob graph for path eval.)
+  - reflectasm (performance evaluation, on the cp already)
 - databases
   - hazelcast (experiment with more features and use cases)
   - elasticsearch (learn a bit more how it works)
+  - cqengine (performance tuning)
   - cassandra (new, try to find some use cases and get a feel for it)
 - security
   - blockchains (ethereum, state channels, zksnarks, contracts, evm, security, PoS)
@@ -35,6 +38,10 @@ A repo used to help profile myself as a developer and improve in selected areas.
   - simplex noise
   - perlin noise
   - spatial hashing.
+  - culling in mmo's
+  - messaging / concurrency / state sync
+  - prediction
+  - AI
  
 ## Project pipeline
 - chili-core: ongoing long term project, used in other projects as much as possible.
