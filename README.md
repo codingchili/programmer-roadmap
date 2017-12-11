@@ -35,13 +35,13 @@ A repo used to help profile myself as a developer and improve in selected areas.
   - CI tools (TravisCI alternatives)
   - JUnit 5 (ongoing, use more new features)
 - algorithms
-  - simplex noise
-  - perlin noise
-  - spatial hashing.
-  - culling in mmo's
-  - messaging / concurrency / state sync
-  - prediction
-  - AI
+  - simplex noise
+  - perlin noise
+  - spatial hashing.
+  - culling in mmo's
+  - messaging / concurrency / state sync
+  - prediction
+  - AI
  
 ## Project pipeline
 in progress
