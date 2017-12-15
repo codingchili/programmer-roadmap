@@ -63,6 +63,7 @@ Possible future projects
 - zapperfly-asm: clustered build system for java, focuses on ease of setup.
 - textchannel-cryptolizard: sms brokering service that builds on crypto-hexchange.
 - flic-desktop: a side project, connecting flic to Delphi desktop apps.
+- cluster-tunes: multi-room audio with Android/desktop support. (Airfoil competitor.)
 
 All projects needs to provide a value of some sort, skills development, monetary gains, reputation etc.
 All projects must include a well written readme and a youtube demo.
