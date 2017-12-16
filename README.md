@@ -1,49 +1,68 @@
-# programmer-roadmap
-A repo used to help profile myself as a developer and improve in selected areas. 
+# programmer-roadmap :star2:
+A repo used to plan skills development and projects. 
 
-## a list of topics to focus on in the next 12 months
+Issues in this repository are completable tasks and comes in the following flavors
+- technology: adding new tech to the stack or upgrading existing.
+- research: evaluate by investigation, searching/reading etc.
+- reading: read a designated book or an article for pure skills development.
+- project: a completable project with an end goal, must be demo-able.
+- experimentation: trying out a new framework/idea to get a feel for it.
+- algorithms: the implementation and design of algorithms, can be included in projects.
+- achievement: passive long term goals, example: "release a project using X".
+
+The current issues and projects focus on a selected key areas in which to improve.
+
+## a list of topics to focus on in the next 12 months :rabbit2:
 - frameworks & libraries
-  - vertx (ongoing)
-  - polymer/web components (ongoing, main client framework.)
-  - hazelcast jet (new)
-  - mewbase (new)
-  - netty (new, lighter knowledge to better understand vertx)
-  - kryo (attempt to hook into the ob graph for path eval.)
-  - reflectasm (performance evaluation, on the cp already)
+  - vertx
+  - polymer/web components
+  - hazelcast jet :sparkles:
+  - mewbase :sparkles:
+  - netty :sparkles: (to better understand vertx)
+  - kryo :sparkles:
+  - reflectasm :sparkles:
+  - web3j :sparkles:
+  - metamask :sparkles:
+  
 - databases
-  - hazelcast (experiment with more features and use cases)
-  - elasticsearch (learn a bit more how it works)
-  - cqengine (performance tuning)
-  - cassandra (new, try to find some use cases and get a feel for it)
+  - hazelcast
+  - elasticsearch
+  - cqengine
+  - cassandra :sparkles:
 - security
-  - blockchains (ethereum, state channels, zksnarks, contracts, evm, security, PoS)
-  - crypto currencies (payment integration; web3j, metamask)
-  - web application security (ongoing, owasp, new threats)
-  - cryptocraphy (ongoing)
+
+  - blockchains (ethereum) :sparkles:
+  - crypto currencies :sparkles:
+  - web application security
+  - cryptocraphy
+  
 - data management
-  - kibana (plugin/tooling development, dashboard sharing)
-  - grafana (new)
+  - kibana
+  - grafana :sparkles:
+  
 - programming languages
-  - Delphi (desktop apps, back to the roots.)
-  - Java (java 9, try to do less java in general)
-  - Python. (more async and aiohttp)
-  - JavaScript (ECMA6 and beyond, clients only)
-  - solidity/viper (new, smart contracts etc)
+  - Delphi:desktop apps, back to the roots.
+  - Java: 9, try to do less java in general.
+  - Python: more async and aiohttp.
+  - JavaScript: ECMA6 and beyond, clients only
+  - solidity/viper :sparkles:
+  
 - development
-  - gradle (ongoing)
-  - git (ongoing, try some "advanced" features every now and then.
-  - CI tools (TravisCI alternatives)
-  - JUnit 5 (ongoing, use more new features)
+  - gradle
+  - git
+  - CI tools/TravisCI
+  - JUnit 5
+  
 - algorithms
-  - simplex noise
-  - perlin noise
-  - spatial hashing.
-  - culling in mmo's
-  - messaging / concurrency / state sync
-  - prediction
-  - AI
+  - simplex noise :sparkles:
+  - perlin noise :sparkles:
+  - spatial hashing. :sparkles:
+  - culling in mmo's :sparkles:
+  - AI :sparkles:
  
-## Project pipeline
+## Project pipeline :goat:
+The status of each task and project is visible under the 'pipeline' project in this repository.
+
 in progress
 - chili-core: ongoing long term project, used in other projects as much as possible.
 - flashcards-webapp: finish in near future, chili-core project and ethereum integration.
@@ -68,9 +87,20 @@ Possible future projects
 All projects needs to provide a value of some sort, skills development, monetary gains, reputation etc.
 All projects must include a well written readme and a youtube demo.
 
-## Wishlist
+## Wishlist :baby_chick:
 - more non-java development
 - projects that can be released and actually used by someone else.
 - some pi-zero project
 - more hacking, bug bounties? blockchain related?
 - some low level project, ASM/VHDL.
+
+## Why should YOU care? :bird:
+This repository shows the benefits of planning your own skills development and ongoing/future projects. Using the same techniques you could achieve the following:
+
+- never forget about exciting technology that you have read about, add it to your todo list.
+- make sure you are always improving and moving forward by adding and completing new tasks.
+- plan the completion and start of new projects.
+- prioritize projects and skills development, focus on whats important.
+- by keeping a backlog of projects and skills development tasks you are less likely to run out of ideas.
+
+:octocat:
