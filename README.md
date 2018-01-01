@@ -45,7 +45,8 @@ The current issues and projects focus on a selected key areas in which to improv
   - Java: 9, try to do less java in general.
   - Python: more async and aiohttp.
   - JavaScript: ECMA6 and beyond, clients only
-  - solidity/viper :sparkles:
+  - evm: viper/vyper :sparkles:
+  - evm: lll :sparkles:
   
 - development
   - gradle
@@ -88,11 +89,11 @@ All projects needs to provide a value of some sort, skills development, monetary
 All projects must include a well written readme and a youtube demo.
 
 ## Wishlist :baby_chick:
-- more non-java development
+- more non-java development (vyper, python, delphi, LLL ?)
 - projects that can be released and actually used by someone else.
 - some pi-zero project
 - more hacking, bug bounties? blockchain related?
-- some low level project, ASM/VHDL.
+- some low level project, ASM/VHDL. OR LLL ?!
 
 ## Why should YOU care? :bird:
 This repository shows the benefits of planning your own skills development and ongoing/future projects. Using the same techniques you could achieve the following:
