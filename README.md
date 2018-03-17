@@ -12,7 +12,7 @@ Issues in this repository are completable tasks and comes in the following flavo
 
 The current issues and projects focus on a selected key areas in which to improve.
 
-## a list of topics to focus on in the next 12 months :rabbit2:
+## a list of topics to focus on :rabbit2:
 - frameworks & libraries
   - vertx
   - polymer/web components
@@ -28,7 +28,9 @@ The current issues and projects focus on a selected key areas in which to improv
   - hazelcast
   - elasticsearch
   - cqengine
+  - mongodb
   - cassandra :sparkles:
+  - neo4j :sparkles:
 - security
 
   - blockchains (ethereum) :sparkles:
