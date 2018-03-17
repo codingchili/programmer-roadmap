@@ -1,5 +1,5 @@
 # programmer-roadmap :star2:
-A repo used to plan skills development and projects. 
+A repo used to plan skills development and projects. A list of technologies to keep in the toolbox and some new :sparkles: to keep it fresh.
 
 Issues in this repository are completable tasks and comes in the following flavors
 - technology: adding new tech to the stack or upgrading existing.
@@ -85,7 +85,7 @@ Possible future projects
 - zapperfly-asm: clustered build system for java, focuses on ease of setup.
 - textchannel-cryptolizard: sms brokering service that builds on crypto-hexchange.
 - flic-desktop: a side project, connecting flic to Delphi desktop apps.
-- cluster-tunes: multi-room audio with Android/desktop support. (Airfoil competitor.)
+- cluster-tunes: multi-room audio with Android/desktop support. Not likely as Airfoil finally provided an update!
 
 All projects needs to provide a value of some sort, skills development, monetary gains, reputation etc.
 All projects must include a well written readme and a youtube demo.
