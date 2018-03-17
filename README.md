@@ -36,7 +36,7 @@ The current issues and projects focus on a selected key areas in which to improv
   - blockchains (ethereum) :sparkles:
   - crypto currencies :sparkles:
   - web application security
-  - cryptocraphy
+  - cryptography
   
 - data management
   - kibana
