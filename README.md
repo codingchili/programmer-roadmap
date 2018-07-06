@@ -29,10 +29,11 @@ The current issues and projects focus on a selected key areas in which to improv
   - elasticsearch
   - cqengine
   - mongodb
+  - redis/memcached :sparkles:
   - cassandra :sparkles:
-  - neo4j :sparkles:
+  - neo4j/some other graph database :sparkles:
+  
 - security
-
   - blockchains (ethereum) :sparkles:
   - crypto currencies :sparkles:
   - web application security
@@ -48,11 +49,12 @@ The current issues and projects focus on a selected key areas in which to improv
   - Python: more async and aiohttp.
   - JavaScript: ECMA6 and beyond, clients only
   - evm: viper/vyper :sparkles:
-  - evm: lll :sparkles:
+  - evm: lll ? :sparkles:
   
 - development
   - gradle
   - git
+  - docker
   - CI tools/TravisCI
   - JUnit 5
   
@@ -68,8 +70,7 @@ The status of each task and project is visible under the 'pipeline' project in t
 
 in progress
 - chili-core: ongoing long term project, used in other projects as much as possible.
-- flashcards-webapp: finish in near future, chili-core project and ethereum integration.
-- chili-core prototype: html5 game based on chili-core, long term currently in progress.
+- chili-ext-game prototype: html5 game based on chili-core, long term currently in progress.
 
 planned
 - timeless-gitmon: time reporting for developers, one day timeboxed activity.
@@ -80,12 +81,15 @@ maintenance
 - ethereum-ingest: event ingestion to a queryable data store, for analysis and real time infographics/dashboard etc.
 - kbn-authentication-plugin: development driven by community demand. low priority.
 - excelastic: development driven by community demand. low priority.
+- zapperfly-asm: clustered build system for java, focuses on ease of setup.
+- flashcards-webapp: finish in near future, chili-core project and ethereum integration.
 
 Possible future projects
-- zapperfly-asm: clustered build system for java, focuses on ease of setup.
-- textchannel-cryptolizard: sms brokering service that builds on crypto-hexchange.
+
+- textchannel-cryptolizard: sms brokering service and gateway that builds on crypto-hexchange.
 - flic-desktop: a side project, connecting flic to Delphi desktop apps.
 - cluster-tunes: multi-room audio with Android/desktop support. Not likely as Airfoil finally provided an update!
+- docker-proxy: a docker proxy that starts containers on demand and stops when inactive, downscaling/multi-tenancy.
 
 All projects needs to provide a value of some sort, skills development, monetary gains, reputation etc.
 All projects must include a well written readme and a youtube demo.
