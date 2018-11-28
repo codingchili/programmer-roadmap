@@ -23,12 +23,14 @@ The current issues and projects focus on a selected key areas in which to improv
   - reflectasm :sparkles:
   - web3j :sparkles:
   - metamask :sparkles:
+  - nodejs
   
 - databases
   - hazelcast
   - elasticsearch
   - cqengine
   - mongodb
+  - realm (android) :sparkles:
   - redis/memcached :sparkles:
   - cassandra :sparkles:
   - neo4j/some other graph database :sparkles:
@@ -50,6 +52,7 @@ The current issues and projects focus on a selected key areas in which to improv
   - JavaScript: ECMA6 and beyond, clients only
   - evm: viper/vyper :sparkles:
   - evm: lll ? :sparkles:
+  - kotlim :sparkles:
   
 - development
   - gradle
