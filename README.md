@@ -9,8 +9,17 @@ Issues in this repository are completable tasks and comes in the following flavo
 - experimentation: trying out a new framework/idea to get a feel for it.
 - algorithms: the implementation and design of algorithms, can be included in projects.
 - achievement: passive long term goals, example: "release a project using X".
+- youtube: things relating to my youtube channel.
 
 The current issues and projects focus on a selected key areas in which to improve.
+
+Skill rating from hatched chick to full grown chicken.
+- :hatching_chick: - beginner
+- :baby_chick: - intermediate
+- :chicken: - grandmaster ninja rooster hacker
+
+New topics are marked with
+- :sparkles:
 
 ## a list of topics to focus on :rabbit2:
 - frameworks & libraries
@@ -19,8 +28,8 @@ The current issues and projects focus on a selected key areas in which to improv
   - hazelcast jet :sparkles:
   - mewbase :sparkles:
   - netty :sparkles: (to better understand vertx)
-  - kryo :sparkles:
-  - reflectasm :sparkles:
+  - kryo
+  - reflectasm
   - web3j :sparkles:
   - metamask :sparkles:
   - nodejs
@@ -30,7 +39,7 @@ The current issues and projects focus on a selected key areas in which to improv
   - elasticsearch
   - cqengine
   - mongodb
-  - realm (android) :sparkles:
+  - realm (android)
   - redis/memcached :sparkles:
   - cassandra :sparkles:
   - neo4j/some other graph database :sparkles:
@@ -43,16 +52,16 @@ The current issues and projects focus on a selected key areas in which to improv
   
 - data management
   - kibana
-  - grafana :sparkles:
+  - kibana canvas :sparkles:
+  - grafana :sparkles: - deprecate? I prefer ElasticSearch.
   
 - programming languages
   - Delphi:desktop apps, back to the roots.
-  - Java: 9, try to do less java in general.
+  - Java: 11, try to do less java in general.
   - Python: more async and aiohttp.
   - JavaScript: ECMA6 and beyond, clients only
   - evm: viper/vyper :sparkles:
-  - evm: lll ? :sparkles:
-  - kotlim :sparkles:
+  - kotlin
   
 - development
   - gradle
@@ -60,6 +69,7 @@ The current issues and projects focus on a selected key areas in which to improv
   - docker
   - CI tools/TravisCI
   - JUnit 5
+  - AWS Lambda :sparkles:
   
 - algorithms
   - simplex noise :sparkles:
