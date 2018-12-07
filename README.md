@@ -24,7 +24,11 @@ New topics are marked with
 ## a list of topics to focus on :rabbit2:
 - frameworks & libraries
   - vertx
+  - nodejs
+  - asyncio/aiohttp
   - polymer/web components
+  - android
+  - chromecast application framework
   - hazelcast jet :sparkles:
   - mewbase :sparkles:
   - netty :sparkles: (to better understand vertx)
@@ -32,7 +36,7 @@ New topics are marked with
   - reflectasm
   - web3j :sparkles:
   - metamask :sparkles:
-  - nodejs
+  - HTML5 / websockets / CSS3
   
 - databases
   - hazelcast
@@ -49,6 +53,11 @@ New topics are marked with
   - crypto currencies :sparkles:
   - web application security
   - cryptography
+  - hashing
+  - encryption
+  - signing
+  - tls
+  - dtls
   
 - data management
   - kibana
@@ -77,6 +86,13 @@ New topics are marked with
   - spatial hashing. :sparkles:
   - culling in mmo's :sparkles:
   - AI :sparkles:
+  
+- data formats
+  - JSON
+  - YAML
+  - XML
+  - CSV
+  - XLSX/XLS
  
 ## Project pipeline :goat:
 The status of each task and project is visible under the 'pipeline' project in this repository.
